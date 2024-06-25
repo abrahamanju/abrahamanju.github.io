@@ -1,9 +1,5 @@
 ## Anju Abraham
 
-### Education
-Indian Institute of Technology, Roorkee | M.Tech in Earthquake Engineering | CGPA: 9.19/10 &emsp;&emsp;&emsp;&emsp;2019 – 2021  
-Govt. Engineering. College, Barton Hill, TVM | B.Tech in Civil Engineering | CGPA: 8.65/10 &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;2014 – 2018  
-
 ### Skills
 ML framework        :   Sci-kit Learn, Pandas, Numpy, Matplotlib, Seaborn, Plotly  
 Languages/Tools     :   SQL, Python, VBA, PowerBI   
@@ -33,15 +29,19 @@ Personal skills     :  Analytical skills, Teamwork, Keen Learner, Interpersonal 
 •	This allows users to securely login to the application through email without requiring to remember complicated passwords.  
 
 ### Work Experience 
-**Senior Design Engineer | Larsen & Toubro, Engineering Design and Research Centre(EDRC)**  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Aug 2021 – Aug 2023  
+**Senior Design Engineer | Larsen & Toubro, Engineering Design and Research Centre(EDRC)**  | Aug 2021 – Aug 2023  
 •	As part of standardization team, developed standard drawings to be used by the design teams. Resulted in savings of  ≈ 40 manhours/drawing usage.  
 •	Automated RC beam design using Excel VBA. Achieved average design time of 1 min/beam.  
 •	Conducted root-cause analysis using data-driven approaches to improve standardization usage among teams. Prepared feature suggestions for the development of a new standardization website, to increase team efficiency.  
 •	Coordinated among multi-disciplinary engineering and IT/BIM teams ensuring correctness in the site deliverables.  
 
-**Summer Intern | Rodic Consultants Pvt. Ltd.**  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Aug 2020 – Oct 2020  
+**Summer Intern | Rodic Consultants Pvt. Ltd.**  | Aug 2020 – Oct 2020  
 •	Analyzed the census data of villages to gain insights about their current development level.  
 •	This helped to prioritize areas like gender ratio, literacy, sanitation, drainage, water, health facilities where further improvement measures are required.  
+
+### Education
+Indian Institute of Technology, Roorkee | M.Tech in Earthquake Engineering | CGPA: 9.19/10 | 2021  
+Govt. Engineering. College, Barton Hill, TVM | B.Tech in Civil Engineering | CGPA: 8.65/10 | 2018  
 
 ### Certifications
 •	IBM Data Science Professional Certificate   
