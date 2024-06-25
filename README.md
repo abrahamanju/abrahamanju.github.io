@@ -1,10 +1,10 @@
 ## Anju Abraham
 
 ### Skills
-ML framework        :   Sci-kit Learn, Pandas, Numpy, Matplotlib, Seaborn, Plotly  
-Languages/Tools     :   SQL, Python, VBA, PowerBI   
-Software Packages   :   MS Office (Excel, Word, Powerpoint), AutoCAD, ABAQUS  
-Personal skills     :  Analytical skills, Teamwork, Keen Learner, Interpersonal skills  
+**ML framework        :**   Sci-kit Learn, Pandas, Numpy, Matplotlib, Seaborn, Plotly  
+**Languages/Tools     :**   SQL, Python, VBA, PowerBI   
+**Software Packages   :**   MS Office (Excel, Word, Powerpoint), AutoCAD, ABAQUS  
+**Personal skills     :**  Analytical skills, Teamwork, Keen Learner, Interpersonal skills  
 
 ### Projects
 ***Laptop price prediction using Machine Learning***   
